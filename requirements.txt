@@ -1,0 +1,6 @@
+fastapi==0.85.0
+sqlalchemy==1.4.39
+pandas==1.5.3
+httpx==0.23.0
+beautifulsoup4==4.11.1
+requests==2.28.1
